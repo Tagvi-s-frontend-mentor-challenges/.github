@@ -8,7 +8,7 @@ Nowadays, it is just to have fun, since I don't learn much from these anymore.
 
 ## Regarding my code quality.
 
-Most of these challenges are old, although I redo them once in a while. I started this when I really sucked at coding and have improved a lot.
+Most of these challenges are old, although I redo them once in a while. I started this when I really sucked at coding.
 
 Nowadays, I am too lazy to do these since all the challenges can be done by a junior developer and it just too simple to satisfy me. What ends up happening is that I half-ass things and I might forget to add certain provided details here and there.
 
